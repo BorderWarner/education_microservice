@@ -1,0 +1,6 @@
+@startuml
+!include temp/C4_Context.puml
+!include temp/C4_Container.puml
+!include temp/C4_Component.puml
+'!include C4_Code.puml
+@enduml
